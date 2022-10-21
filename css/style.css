@@ -562,8 +562,8 @@ footer ul li a:hover {
 
   /* Navbar */
 
-  .nav__menu {
-    right: 3%;
+  .rao h1 {
+    text-align: center;
   }
 
   /* Header */
@@ -573,7 +573,7 @@ footer ul li a:hover {
   }
 
   .header__container {
-    grid-template-columns: 1fr;
+    grid-template-columns: 2fr;
     text-align: center;
     margin-top: 0;
   }
